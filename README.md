@@ -7,7 +7,7 @@
   - TypeScript: A typed superset of JavaScript that adds static types. Provides better development experience and code quality.
   - SCSS: A preprocessor scripting language that is interpreted into CSS. Provides enhanced styling capabilities.
   - React Hook Form: A library for managing form state and validation, used in conjunction with React’s built-in hooks like useState, useReducer, and useContext for managing form logic and state.
-  - Fetch: A promise-based HTTP client for making API requests.
+  - Fetch: A modern, promise-based API used for making HTTP requests to interact with remote resources.
     
   - React Router: A library for routing in React applications. Enables navigation between different pages or views.
   - React Paginate: A pagination component for handling large sets of data.
