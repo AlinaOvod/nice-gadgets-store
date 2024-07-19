@@ -1,4 +1,4 @@
-#Nice Gadgets store on React
+# Nice Gadgets store on React
 
 1. A Brief Description of the Project: The Nice Gadgets Store is a web-based e-commerce application designed for showcasing and selling various gadgets. The platform provides an intuitive and responsive user interface that allows users to browse through different categories of gadgets, view detailed product information, and manage their shopping cart. It features user authentication, search and filtering capabilities, and a smooth browsing experience optimized for various devices.
   
@@ -13,8 +13,6 @@
   - React Paginate: A pagination component for handling large sets of data.
   - React Swipeable: A library for adding swipe gestures to React components.
   - Lodash: A utility library that provides helpful functions for manipulating and working with arrays, objects, and other data types.
-
-These technologies work together to deliver a robust, user-friendly, and scalable e-commerce experience.
 
 4. Demo link: https://alinaovod.github.io/nice-gadgets-store/
 5. Project layout: https://github.com/AlinaOvod/nice-gadgets-store/
