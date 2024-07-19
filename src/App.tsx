@@ -1,21 +1,26 @@
-import React from 'react';
+import { Outlet } from 'react-router-dom';
 import './App.scss';
+import { Header } from './modules/shared/Header';
+import { Footer } from './modules/shared/Footer';
+import { useEffect, useState } from 'react';
+import classNames from 'classnames';
 
-interface Props {
-  onClick: () => void;
-  children: React.ReactNode;
-}
+export const App = () => {
+  const [isOpenMenu, setIsOpenMenu] = useState<boolean>(false);
 
-export const Provider: React.FC<Props> = React.memo(({ onClick, children }) => (
-  <button type="button" onClick={onClick}>
-    {children}
-  </button>
-));
+  useEffect(() => {
+    if (isOpenMenu) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'auto';
+    }
+  }, [isOpenMenu]);
 
-export const App: React.FC = () => {
   return (
-    <div className="starter">
-      <Provider onClick={() => ({})}>TodoList</Provider>
+    <div className={classNames('app', { overflowHidden: isOpenMenu })}>
+      <Header isOpenMenu={isOpenMenu} setIsOpenMenu={setIsOpenMenu} />
+      <Outlet />
+      <Footer />
     </div>
   );
 };
