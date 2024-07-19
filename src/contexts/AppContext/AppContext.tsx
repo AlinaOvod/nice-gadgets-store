@@ -27,15 +27,3 @@ export const GlobalStateProvider: React.FC<Props> = ({ children }) => {
     </DispatchContext.Provider>
   );
 };
-
-// type AppContextType = {
-//   favorites: Product[];
-//   addToFavorites: (product: Product) => void;
-//   removeFromFavorites: (productId: string) => void;
-//   // cart: CartItemProps[];
-//   addToCart: (product: Product) => void;
-//   removeFromCart: (productId: string) => void;
-//   updateCartQuantity: (productId: string, quantity: number) => void;
-//   calculateTotalPrice: () => number;
-//   clearCart: () => void;
-// };

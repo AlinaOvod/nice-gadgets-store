@@ -26,12 +26,10 @@
           background-color: var(--main-text-color);
 
           @include on-tablet {
-            // bottom: -18px;
             bottom: 0;
           }
 
           @include on-desktop {
-            // bottom: -26px;
             bottom: 0;
           }
         }
