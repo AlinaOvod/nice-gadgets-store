@@ -14,5 +14,6 @@
   - React Swipeable: A library for adding swipe gestures to React components.
   - Lodash: A utility library that provides helpful functions for manipulating and working with arrays, objects, and other data types.
 
-4. Demo link: https://alinaovod.github.io/nice-gadgets-store/
-5. Project layout: https://github.com/AlinaOvod/nice-gadgets-store/
+4. [Demo link](https://alinaovod.github.io/nice-gadgets-store/)
+5. [Project layout](https://github.com/AlinaOvod/nice-gadgets-store/)
+6. [Mockup](https://www.figma.com/design/NW7ym1XZtIBFP84WRoVBNJ/Phone-catalog-(V2)-Original-(Copy)?node-id=15875-35220&t=972igXw6gs7KDny2-1)
