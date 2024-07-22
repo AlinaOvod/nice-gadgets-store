@@ -1,8 +1,8 @@
 # Nice Gadgets store on React
 
-1. A Brief Description of the Project: The Nice Gadgets Store is a web-based e-commerce application designed for showcasing and selling various gadgets. The platform provides an intuitive and responsive user interface that allows users to browse through different categories of gadgets, view detailed product information, and manage their shopping cart. It features user authentication, search and filtering capabilities, and a smooth browsing experience optimized for various devices.
+## 1. A Brief Description of the Project: The Nice Gadgets Store is a web-based e-commerce application designed for showcasing and selling various gadgets. The platform provides an intuitive and responsive user interface that allows users to browse through different categories of gadgets, view detailed product information, and manage their shopping cart. It features user authentication, search and filtering capabilities, and a smooth browsing experience optimized for various devices.
   
-2. Technologies that to have been used:
+## 2. Technologies that to have been used:
   - React: A JavaScript library for building user interfaces. Used for creating dynamic and interactive components.
   - TypeScript: A typed superset of JavaScript that adds static types. Provides better development experience and code quality.
   - SCSS: A preprocessor scripting language that is interpreted into CSS. Provides enhanced styling capabilities.
@@ -14,6 +14,6 @@
   - React Swipeable: A library for adding swipe gestures to React components.
   - Lodash: A utility library that provides helpful functions for manipulating and working with arrays, objects, and other data types.
 
-4. [Demo link](https://alinaovod.github.io/nice-gadgets-store/)
-5. [Project layout](https://github.com/AlinaOvod/nice-gadgets-store/)
-6. [Mockup](https://www.figma.com/design/NW7ym1XZtIBFP84WRoVBNJ/Phone-catalog-(V2)-Original-(Copy)?node-id=15875-35220&t=972igXw6gs7KDny2-1)
+## 4. [Demo link](https://alinaovod.github.io/nice-gadgets-store/)
+## 5. [Project layout](https://github.com/AlinaOvod/nice-gadgets-store/)
+## 6. [Mockup](https://www.figma.com/design/NW7ym1XZtIBFP84WRoVBNJ/Phone-catalog-(V2)-Original-(Copy)?node-id=15875-35220&t=972igXw6gs7KDny2-1)
