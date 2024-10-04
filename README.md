@@ -1,7 +1,7 @@
 # Nice Gadgets store on React
 
 ## 1. A Brief Description of the Project: 
-The Nice Gadgets Store is a web-based e-commerce application designed for showcasing and selling various gadgets. The platform provides an intuitive and responsive user interface that allows users to browse through different categories of gadgets, view detailed product information, and manage their shopping cart. It features user authentication, search and filtering capabilities, and a smooth browsing experience optimized for various devices.
+The Nice Gadgets Store is a web-based e-commerce application designed for showcasing and selling various gadgets. The platform provides an intuitive and responsive user interface that allows users to browse through different categories of gadgets, view detailed product information, and manage their shopping cart. It features search and filtering capabilities, and a smooth browsing experience optimized for various devices.
   
 ## 2. Technologies that to have been used:
   - React: A JavaScript library for building user interfaces. Used for creating dynamic and interactive components.
